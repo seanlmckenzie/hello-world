@@ -1,2 +1,2 @@
 # hello-world
-This is Tandem Atlas Inc!
+This is Atlas Inc!
